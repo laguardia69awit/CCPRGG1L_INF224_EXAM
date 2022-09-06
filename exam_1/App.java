@@ -6,6 +6,7 @@ public class App {
         //object - stu
         //surname - Laguardia
         //firstname - Luis Gabriel
+        //middleInitial - H
         //dateOfBirth - 05/04/04
         //studentNumber - 2022104583
         //studentEmailAddress - laguardialh@students.national-u.edu.ph
@@ -15,6 +16,7 @@ public class App {
 
         stu.surname = "Laguardia";
         stu.firstname = "Luis Gabriel";
+        stu.middleInitial = 'H';
         stu.dateOfBirth = "05/04/04";
         stu.studentNumber = 2022104583;
         stu.studentEmailAddress = "laguardialh@students.national-u.edu.ph";
