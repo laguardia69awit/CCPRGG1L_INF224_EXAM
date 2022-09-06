@@ -2,6 +2,7 @@ public class Student {
     
 String surname;
 String firstname;
+char middleInitial;
 String dateOfBirth;
 int studentNumber;
 String studentEmailAddress;
